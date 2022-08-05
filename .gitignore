@@ -1,0 +1,8 @@
+*~
+*.aux
+*.out
+*.pdf
+*.log
+rubrics/
+outline/
+auto/
